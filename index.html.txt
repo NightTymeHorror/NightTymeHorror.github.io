@@ -1,0 +1,559 @@
+<!-----------------------
+2000s User Profile Code REMAKE - Black Theme
+        By LeafJelly on Toyhou.se
+
+If you see <img src="url"> It is a image you can change or delete if you don't want it
+Resources to decorate this code are here https://toyhou.se/19465368
+
+Hex Code Colors. Use ctrl+f and replace all to quickly change the code's colors
+background:#000
+Borders: #222
+Headers: #FFF
+Font: #b1b1b1
+
+Button Colors
+Borders: #444
+Background: #313131
+Text: #999
+------------------------>
+
+<div class="col-12 m-auto p-1 p-md-2 bg-dark" style="background: linear-gradient(to bottom right, #000000, #FFFFFF, #000000, #FFFFFF, #000000);">
+
+<!---- Repeating Background-----
+Replace the URL with a different image url/address to change the background
+----------------------------->
+<div class="col-12 p-0" style="font-family:times new roman;color:#FFF; background-image:url(
+     
+     https://gifcity.carrd.co/assets/images/gallery96/dd30623c.png?v=5bf8fcf7
+     
+    ); letter-spacing:.9px">
+
+<!----- Top repeating Banner -------
+Replace the URL with a different image url/address to change the image
+Change the height below the url until it looks good with your image
+Delete this if you don't want it
+------------------------------------>
+<div class="w-100" style="background-repeat:repeat-x; background-size:contain; background-image:url(
+
+    https://gifcity.carrd.co/assets/images/gallery49/5362a311.gif?v=5bf8fcf7
+
+    ); background-position:top; height:20px;">
+    
+</div>
+<!----- Repeating Banner End------->
+    
+<div class="row no-gutters mx-auto py-2 py-md-5 my-lg-5" style="max-width:1200px">
+
+<!-------Floating Divder------
+Or you can make it a page doll
+Replace the URL with a different image url/address to change the background
+Delete this if you don't want it
+----------------------------->
+<span class="col-12 justify-content-center"><img src="
+     https://i.imgur.com/cYRhaKV.gif
+"></span>
+<!-----Floating Divider End----->
+
+<!---- Welcome Banner -----
+Delete this if you don't want it
+----------------------------->
+<div class="col-10 m-auto p-1 pb-4"><div class="card rounded-0 p-2 text-center" style="background:#000;border:1px solid #222; letter-spacing:2px">
+<h1 class="m-0">
+    
+     <img src="https://i.imgur.com/u5RqW26.gif">
+     Welcome to my Page!!
+     <img src="https://i.imgur.com/u5RqW26.gif">
+     
+</h1></div></div>
+<!---- Banner End --->
+
+
+<!---------------------------------------------
+            First Box Genereal Info
+---------------------------------------------->
+<div class="row no-gutters">
+<div class="col-12 col-lg-8 row no-gutters">
+<div class="col-12 col-lg-3 p-2"><div class="card rounded-0 p-2 text-center h-100"  style="background:#000;border:1px solid #222">
+    
+<!---- Icon -----
+Replace the URL with a different image url/address to change the image
+------------------->
+<div claSS="card bg-transparent rounded-0 mx-auto mb-1" style="min-height:100px; min-width:100px; background-image:url(
+     
+     https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXBCwDvi5gKGOgyzYqm4Wc2TstYlMLcXQktQ&usqp=CAU
+     
+      );background-size:cover;background-position:center;background-repeat:no-repeat; border:1px solid #222"></div>
+
+<!---------------------------
+        Info
+----------------------------->
+<h3 class="m-0" style="letter-spacing:3px">
+     Username
+</h3>
+<!-----Divider-------->
+<img src="
+     https://gifcity.carrd.co/assets/images/gallery49/abc5acb3.png?v=5bf8fcf7
+" style="max-height:30px" class="m-auto">
+<!---Divider end--->
+
+<span style="color:#b1b1b1">
+     Pronouns · Age · Gender · Info
+</span>
+
+<!---- Social Links -----
+Delete the ones you don't need
+Change the symbole by changing the name of the fa-icon-name using https://fontawesome.com/
+far is for regular symbols  fab are for brands
+------------------->
+<div class="d-grid justify-content-across">
+     <a  class="btn btn-block p-0 w-75 mb-1 mx-auto justify-content-across" style="border:1px solid #444; background:#313131; color:#999" 
+     href="URL_HERE">
+         <i class="far fa-address-card"></i>
+         Carrd
+     </a>
+     <!-------->
+     <a  class="btn btn-block p-0 w-75 mb-1 mx-auto" style="border:1px solid #444; background:#313131; color:#999" 
+     href="URL_HERE">
+         <i class="fab fa-deviantart"></i>
+         DeviantArt
+     </a>
+     <!-------->
+     <a  class="btn btn-block p-0 w-75 mb-1 mx-auto" style="border:1px solid #444; background:#313131; color:#999" 
+     href="URL_HERE">
+         <i class="fab fa-instagram"></i>
+         Instagram
+     </a>
+     <!-------->
+     <a  class="btn btn-block p-0 w-75 mb-1 mx-auto" style="border:1px solid #444; background:#313131; color:#999" 
+     href="URL_HERE">
+         <i class="fab fa-youtube"></i>
+         Youtube
+     </a>
+     <!-------->
+     <a  class="btn btn-block p-0 w-75 mb-1 mx-auto" style="border:1px solid #444; background:#313131; color:#999" 
+     href="URL_HERE">
+         <i class="fab fa-tiktok"></i>
+         TikTok
+     </a>
+     <!-------->
+     <a  class="btn btn-block p-0 w-75 mb-1 mx-auto" style="border:1px solid #444; background:#313131; color:#999" 
+     href="URL_HERE">
+         <i class="fab fa-twitter"></i>
+         Twitter
+     </a>
+     <!-------->
+     <a  class="btn btn-block p-0 w-75 mb-1 mx-auto" style="border:1px solid #444; background:#313131; color:#999" 
+     href="URL_HERE">
+         <i class="far fa-mug"></i>
+         Ko-fi
+     </a>
+     <!-------->
+     <a  class="btn btn-block p-0 w-75 mb-1 mx-auto" style="border:1px solid #444; background:#313131; color:#999" 
+     href="URL_HERE">
+         <i class="far fa-pen-paintbrush"></i>
+         ArtFight
+     </a>
+     <!-------->
+     <a  class="btn btn-block p-0 w-75 mb-1 mx-auto" style="border:1px solid #444; background:#313131; color:#999" 
+     href="URL_HERE">
+         <i class="far fa-link"></i>
+         Extra
+     </a>
+     
+     <!------ Copy and Paste Above here for More Links -------->
+</div>
+
+</div></div>
+
+<!---------------------------------------------
+            About Box
+---------------------------------------------->
+<div class="col-12 col-lg-9 p-2"><div class="card rounded-0 p-2 h-100 justify-content-center text-center" style="background:#000;border:1px solid #222">
+<!---- Title ------>
+<h2 class="m-0" style="letter-spacing:3px">
+    About Me
+</h2>
+
+<!-----divider-------->
+<img src="
+     https://gifcity.carrd.co/assets/images/gallery49/abc5acb3.png?v=5bf8fcf7
+" style="max-height:50px" class="mx-auto mb-1">
+<!---Divider end--->
+
+<!-----Blinkiez-------
+Replace the URL with a different image url/address to change the image
+You can Delete this if you don't want any
+--------------------->
+<span><div class="row no-gutters justify-content-center mb-1">
+     <img src="https://i.imgur.com/9x6uqZp.png">
+     <img src="https://i.imgur.com/HdBx6om.gif">
+     <img src="https://gifcity.carrd.co/assets/images/gallery23/a8f5239b.gif?v=d32b0bb8">
+     <img src="https://gifcity.carrd.co/assets/images/gallery23/37a9f40c.png?v=d32b0bb8">
+     <img src="https://i.imgur.com/xGSQk6s.gif">
+     
+     
+     <!------ Copy and place above here for more ------>
+</span></div>
+<!--- Blinkiez End---->
+
+<!------ Text Section  ------->
+<div style="max-height:300px; overflow:auto; color:#b1b1b1">
+
+<!----- Divider --->
+<img src="https://gifcity.carrd.co/assets/images/gallery49/62c5c338.gif?v=d32b0bb8">
+<!---Divider end--->
+
+<p>This will scroll if you add a lot of text.</p>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+
+<!---- Divider ---->
+<img src="https://gifcity.carrd.co/assets/images/gallery49/62c5c338.gif?v=d32b0bb8">
+<!---Divider end--->
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>  
+
+
+<!---- Copy and Paste above here for more paragraphs  ---->
+</div></div></div>
+
+
+<!-------Floating Divder------
+Or you can make it a page doll
+Replace the URL with a different image url/address to change the background
+Delete this if you don't want it
+----------------------------->
+<span class="col-12 justify-content-center"><img src="
+     https://gifcity.carrd.co/assets/images/gallery48/fa02f5f0.gif?v=5bf8fcf7
+"></span>
+<!-----Floating Divider End----->
+
+<!---------------------------------------------
+            Art Status
+---------------------------------------------->
+<div class="col-8 col-md-4 col-lg-5 p-2"><div class="card rounded-0 p-2 h-100 text-center" style="background:#000;border:1px solid #222; color:#b1b1b1;">
+<!---- Title ------>
+<h4 class="m-0" style="letter-spacing:3px; color:#fff">
+     <img src="https://i.imgur.com/iZWYCpf.gif">
+     Art Status
+     <img src="https://i.imgur.com/iZWYCpf.gif">
+</h4>
+
+<!-----divider----->
+<img src="
+     https://gifcity.carrd.co/assets/images/gallery48/eea55b7e.gif?v=5bf8fcf7
+" style="max-height:40px" class="mx-auto mb-1">
+<!---Divider end--->
+
+<!------------- Text -------------->
+<!--------->
+<div class="justify-content-between my-auto">
+<span class="mr-2">
+     <i class="far fa-usd"></i>
+     Commissions 
+</span><hr class="col m-auto" style="border-color:#555">
+    <!---Link--->
+    <a href="URL_HERE" class="ml-2" style="color:#FFF; font-style:italic">
+         Open
+    </a>
+<!---Link End--->
+</div>
+<!--------->
+<div class="justify-content-between my-auto">
+<span class="mr-2">
+     <i class="far fa-gift"></i>
+     Requests
+</span><hr class="col m-auto" style="border-color:#555">
+    <!---- Plain Text ----->
+    <span class="ml-2">
+        Closed
+    </span>
+    <!--- Plain Text End -->
+</div>
+<!--------->
+<div class="justify-content-between my-auto">
+<span class="mr-2">
+     <i class="far fa-paintbrush"></i>
+     Trades
+</span><hr class="col m-auto" style="border-color:#555">
+    <!---- Plain Text ----->
+    <span class="ml-2">
+        Dm Me
+    </span>
+    <!--- Plain Text End -->
+</div>
+<!--------->
+</div></div>
+
+<!---------------------------------------------
+            Featured Image
+Change the background size if you want it to be a image use the following:
+true - for pixels
+cover - for images/icons
+contain - for pagedolls
+---------------------------------------------->
+<div class="col-4 col-md-3 col-lg-2 p-2"><div class="rounded-0 p-2 h-100 text-center" style="background:url(
+
+    https://2.img-dpreview.com/files/g/TS560x560~1217164.jpg
+    
+    ) center;background-size:cover; min-height:100px; background-repeat:no-repeat">
+</div></div>
+
+<!---------------------------------------------
+            Trade Status
+Or you can make this extra links to elsewhere
+Delete whatever sectiosn you don't need. Everything is seperated by lines
+---------------------------------------------->
+<div class="col-12 col-md-5 col-lg-5 p-2"><div class="card rounded-0 p-2 h-100 text-center" style="background:#000;border:1px solid #222; color:#FFF;">
+<!---- Title ------>
+<h4 class="m-0" style="letter-spacing:3px">
+     <img src="https://i.imgur.com/Qx8zkvv.png">
+     Character Trades
+     <img src="https://i.imgur.com/3BExzD9.png">
+</h4>
+
+<!-----divider-------->
+<img src="
+     https://gifcity.carrd.co/assets/images/gallery48/eea55b7e.gif?v=5bf8fcf7
+" style="max-height:40px" class="mx-auto mb-1">
+
+<!--------->
+<div class="justify-content-around my-auto py-1">
+<a href="URL_HERE" target="_BLANK" style="color:#FFF; font-style:italic">
+     <i class="far fa-heart"></i>
+     Preferences
+</a>
+
+<!--------->
+<a href="URL_HERE" target="_BLANK" style="color:#FFF; font-style:italic">
+     <i class="far fa-memo"></i>
+     Trade Bulletin
+</a>
+</div>
+
+<!--------->
+<div class="d-inline d-lg-inline-flex justify-content-around my-auto py-1">
+<a href="URL_HERE" target="_BLANK" class="mx-1" style="color:#b1b1b1; font-style:italic">
+     <i class="far fa-right-left"></i>
+     UFT
+</a>
+
+<!--------->
+<a href="URL_HERE" target="_BLANK" class="mx-1" style="color:#b1b1b1; font-style:italic">
+     <i class="far fa-question"></i>
+     E.O
+</a>
+
+<!--------->
+<a href="URL_HERE" target="_BLANK" class="mx-1" style="color:#b1b1b1; font-style:italic">
+     <i class="far fa-usd"></i>
+     Selling
+</a>
+</div></div></div>
+
+<!---------------------------------------------
+            Friends
+---------------------------------------------->
+<div class="col-12 p-2"><div class="card rounded-0 p-2 h-100 text-center justify-content-center" style="background:#000;border:1px solid #222">
+<!---- Title ------>
+<h4 class="m-0" style="letter-spacing:3px">
+    Friends
+</h4>
+
+<!-----divider-------->
+<img src="
+     https://gifcity.carrd.co/assets/images/gallery48/5501d663.gif?v=5bf8fcf7
+" style="max-height:50px" class="mx-auto mb-1">
+
+<div class="row no-gutters justify-content-center">
+<!----- Friend 1 -------
+Replace the URL with a different image url/address to change the Icon
+--------------------->
+<div class="p-1 px-md-2">
+    <a href="URL_HERE"  style="color:#b1b1b1"><div claSS="card bg-transparent rounded-0 m-auto" style="height:75px;width:75px;background-image:url(
+
+     https://hips.hearstapps.com/hmg-prod/images/freddie-mercury-a-male-norwegian-forest-catparticipates-in-news-photo-1658453576.jpg?crop=1.00xw:0.704xh;0,0.0263xh&resize=980:*
+     
+     );background-size:cover;background-position:center;background-repeat:no-repeat"></div>
+     
+     Username
+</a></div>
+
+<!----- Friend 2 ------->
+<div class="p-1 px-md-2">
+    <a href="URL_HERE"  style="color:#b1b1b1"><div claSS="card bg-transparent rounded-0 m-auto" style="height:75px;width:75px;background-image:url(
+
+     https://cutewallpaper.org/21/images-of-black-and-white-cats/A-Tribute-to-Tuxies-and-their-Tuxitude-The-Purrington-Post.jpg
+     
+     );background-size:cover;background-position:center;background-repeat:no-repeat"></div>
+     
+     Username
+</a></div>
+
+<!----- Friend 3 ------->
+<div class="p-1 px-md-2">
+    <a href="URL_HERE"  style="color:#b1b1b1"><div claSS="card bg-transparent rounded-0 m-auto" style="height:75px;width:75px;background-image:url(
+
+     https://cdn.jwplayer.com/v2/media/mcn8jqxc/poster.jpg?width=720
+     
+     );background-size:cover;background-position:center;background-repeat:no-repeat"></div>
+     
+     Username
+</a></div>
+
+<!----- Friend 4 ------->
+<div class="p-1 px-md-2">
+    <a href="URL_HERE"  style="color:#b1b1b1"><div claSS="card bg-transparent rounded-0 m-auto" style="height:75px;width:75px;background-image:url(
+
+     https://as1.ftcdn.net/v2/jpg/02/10/80/04/1000_F_210800487_oQAuvWmrhXmqk5H8nGcQZCZJH5rwhOYL.jpg
+     
+     );background-size:cover;background-position:center;background-repeat:no-repeat"></div>
+     
+     Username
+</a></div>
+
+<!------- Copy and Paste above here for more friends --------->
+</div></div></div>
+
+</div>
+
+<!---------------------------------------------
+            Featured Characters
+---------------------------------------------->
+<div class="col-12 col-lg-4 p-1 my-auto" style="position:sticky">
+<div class="col-12 p-1"><div class="card rounded-0 p-2 text-center font-weight-bold " style="; background:#000;border:1px solid #222">
+<!---- Title ------>
+<h2 class="m-0" style="letter-spacing:3px">
+    Featured Characters
+</h2>
+
+<!-----divider-------->
+<img src="
+     https://gifcity.carrd.co/assets/images/gallery49/abc5acb3.png?v=5bf8fcf7
+" style="max-height:50px" class="mx-auto mb-1">
+
+<div class="row no-gutters">
+<!----- Character 1 -------
+Replace the URLs with a different image url/address to change the images
+--------------------->
+<div class="m-auto p-1"><a href="URL_HERE"  style="color:#b1b1b1"><div claSS="card bg-transparent rounded-0 m-auto" style="height:100px;width:100px;background-image:url(
+     
+     https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy9rNbfluv0zNp2sxpTqUrAOgGzE-Cmw1A9A&usqp=CAU
+     
+     );background-size:cover;background-position:center;background-repeat:no-repeat"></div>
+     
+     <img src="https://gifcity.carrd.co/assets/images/gallery11/3a2bc8f8.gif?v=5bf8fcf7">
+     Character Name
+     <img src="https://gifcity.carrd.co/assets/images/gallery11/3a2bc8f8.gif?v=5bf8fcf7">
+</a></div>
+
+<!----- Character 2 -------
+Replace the URLs with a different image url/address to change the images
+--------------------->
+<div class="m-auto p-1"><a href="URL_HERE"  style="color:#b1b1b1"><div claSS="card bg-transparent rounded-0 m-auto" style="height:100px;width:100px;background-image:url(
+
+     https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/43/Nakime%27s_first_appearance.png
+     
+     );background-size:cover;background-position:center;background-repeat:no-repeat"></div>
+     
+     <img src="https://gifcity.carrd.co/assets/images/gallery92/a78e1c95.gif?v=5bf8fcf7">
+     Character Name
+     <img src="https://gifcity.carrd.co/assets/images/gallery92/a78e1c95.gif?v=5bf8fcf7">
+</a></div>
+
+<!----- Character 3 -------
+Replace the URLs with a different image url/address to change the images
+--------------------->
+<div class="m-auto p-1"><a href="URL_HERE"  style="color:#b1b1b1"><div claSS="card bg-transparent rounded-0 m-auto" style="height:100px;width:100px;background-image:url(
+
+     https://i.pinimg.com/736x/18/10/49/18104959a472fa37b380164571394147.jpg
+     
+     );background-size:cover;background-position:center;background-repeat:no-repeat"></div>
+     
+     <img src="https://gifcity.carrd.co/assets/images/gallery12/8340bbdc.gif?v=5bf8fcf7">
+     Character Name
+     <img src="https://gifcity.carrd.co/assets/images/gallery12/8340bbdc.gif?v=5bf8fcf7">
+</a></div>
+
+<!----- Character 4 -------
+Replace the URLs with a different image url/address to change the images
+--------------------->
+<div class="m-auto p-1"><a href="URL_HERE"  style="color:#b1b1b1"><div claSS="card bg-transparent rounded-0 m-auto" style="height:100px;width:100px;background-image:url(
+
+     https://i.pinimg.com/564x/65/9f/7b/659f7bd3fab6bc04593b56e2109e673a.jpg
+     
+     );background-size:cover;background-position:center;background-repeat:no-repeat"></div>
+     
+     <img src="https://gifcity.carrd.co/assets/images/gallery11/4e286bce.gif?v=5bf8fcf7">
+     Character Name
+     <img src="https://gifcity.carrd.co/assets/images/gallery11/4e286bce.gif?v=5bf8fcf7">
+</a></div>
+
+<!----- Character 5 -------
+Replace the URLs with a different image url/address to change the images
+--------------------->
+<div class="m-auto p-1"><a href="URL_HERE"  style="color:#b1b1b1"><div claSS="card bg-transparent rounded-0 m-auto" style="height:100px;width:100px;background-image:url(
+
+     https://64.media.tumblr.com/f05122cbde376414b1e89d9c42bcf280/0fbf32817c96cb9b-39/s640x960/b998a1866019abfbe513bba3bd1b1c3c627e0568.jpg
+     
+     );background-size:cover;background-position:center;background-repeat:no-repeat"></div>
+     
+     <img src="https://gifcity.carrd.co/assets/images/gallery11/688c3ffd.gif?v=d32b0bb8">
+     Character Name
+     <img src="https://gifcity.carrd.co/assets/images/gallery11/688c3ffd.gif?v=d32b0bb8">
+</a></div>
+
+<!---------- Copy and paste above here for more featured characters ------------>
+</div></div></div>
+
+<!---------------------------------------------
+            Stamps
+---------------------------------------------->
+<div class="col-12 p-1"><div class="card rounded-0 p-2 text-center font-weight-bold " style="; background:#000;border:1px solid #222"><span>
+     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/69b803a8-e9f8-48e7-9a7c-b50fc0664a9e/dcjvbio-67b54adf-c76c-4cf2-a99f-6a795a118f6f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY5YjgwM2E4LWU5ZjgtNDhlNy05YTdjLWI1MGZjMDY2NGE5ZVwvZGNqdmJpby02N2I1NGFkZi1jNzZjLTRjZjItYTk5Zi02YTc5NWExMThmNmYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yDPg_yXceoyQWbpcpWUV-1FQrvDDVD4lKpZLGViVjTE">
+     <img src="https://gifcity.carrd.co/assets/images/gallery60/243501eb.gif?v=d32b0bb8">
+     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/db0d7c37-0bce-4b24-969d-d90f5db93021/dcijd56-afe24290-3f04-4ca1-9f13-3d558616c6ba.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RiMGQ3YzM3LTBiY2UtNGIyNC05NjlkLWQ5MGY1ZGI5MzAyMVwvZGNpamQ1Ni1hZmUyNDI5MC0zZjA0LTRjYTEtOWYxMy0zZDU1ODYxNmM2YmEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.So_AlZztCs8pXL3K4s4Htux_xA5XojBvCUODC1hZQa8">
+     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/08b2f3b5-019b-4c09-8b44-6123084178e2/ddsobgr-2ee4cd3d-e8ad-4abf-a3c9-32de92d19d65.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA4YjJmM2I1LTAxOWItNGMwOS04YjQ0LTYxMjMwODQxNzhlMlwvZGRzb2Jnci0yZWU0Y2QzZC1lOGFkLTRhYmYtYTNjOS0zMmRlOTJkMTlkNjUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qKQ2jUKBYMXDGMLpggK5Ye4gHIvfrtTrqWnN6OkLgqk">
+     <img src="https://i.imgur.com/F5OM9vA.png">
+     <img src="https://i.imgur.com/SoAfof5.gif">
+     
+     <img src="https://i.imgur.com/zgaRFiu.gif">
+     <img src="https://i.imgur.com/4CjA9B7.png">
+</span></div></div>
+
+<!-------Floating Divder------
+Or you can make it a page doll
+Replace the URL with a different image url/address to change the background
+Delete this if you don't want it
+----------------------------->
+<span class="col-12 justify-content-center"><img src="
+     https://i.imgur.com/4SPr63j.gif
+"></span>
+<!-----Floating Divider End----->
+
+</div></div></div>
+
+<!----- Bottom repeating Banner -------
+Replace the URL with a different image url/address to change the image
+Change the height below the url until it looks good with your image
+Delete this if you don't want it
+------------------------------------>
+<div class="w-100" style="background-repeat:repeat-x; background-size:contain; background-image:url(
+
+    https://gifcity.carrd.co/assets/images/gallery48/8fc03081.gif?v=5bf8fcf7
+
+    ); background-position:bottom; height:25px;">
+    
+</div>
+<!----- Repeating Banner End------->
+
+</div></div>
+
+<!---------------------------------------------
+            CREDIT DO NOT REMOVE
+---------------------------------------------->
+<div class="col-12 text-right">
+<a href="/LeafJelly" class="tooltipster" title="Code by LeafJelly"><i class="far fa-leaf"></i></a>
+
+<!------- If you wnat to add-on credits to Artists, add it above here -------->
+</div>
